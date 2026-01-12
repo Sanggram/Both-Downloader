@@ -1,6 +1,5 @@
 {
-    "version": "1.2",
-    "release_date": "2025-05-20",
-    "download_url": "https://github.com/Sanggram/Both-Downloader/releases/latest",
-    "changelog": "Initial Release of Project Titan v1.2 with Smart Update System."
+    "version": "1.1",
+    "download_url": "https://github.com/Sanggram/Both-Downloader/releases/download/v1.1/Setup.exe",
+    "changelog": "- Fixed minor bugs\n- Faster download speed\n- Added new theme"
 }
