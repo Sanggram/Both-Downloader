@@ -1,4 +1,4 @@
-🛡️ Both Downloader - Project Titan (v1.3)
+🛡️ Both Downloader - Project Titan (v1.4)
 
 The Ultimate Cyber-Grade Downloading & Security Suite
 
@@ -40,7 +40,7 @@ No time to watch a video? Use our AI Engine to convert video audio into text (Tr
 
 🎥 Core Downloading Features
 
-Smart Quality Selector: Freedom to choose between 720p (Standard), 1080p (High), and 4K (Ultra).
+Smart Quality Selector: 720p (Standard), 1080p (High), and 4K (Ultra).
 
 Universal Support: Supports over 1000+ sites including YouTube, Facebook, Bilibili, Instagram, and TikTok.
 
@@ -48,7 +48,7 @@ MP3 Extractor: Built-in tool to extract high-quality audio (MP3) from video file
 
 💎 PRO Features (Titan License Required)
 
-To unlock these features, use the official license key TITAN-PRO-2025:
+To unlock these premium features, a valid License Key is required:
 
 Batch Processing: Load a .txt file containing multiple links and download hundreds of videos simultaneously.
 
@@ -72,36 +72,21 @@ DNS Flush Protocol: One-click tool to refresh and clear network DNS caches.
 
 OS: Windows 10/11 (x64)
 
-Engine: FFmpeg (Included or must be installed on the system)
+Engine: FFmpeg (Included in EXE)
 
 RAM: Minimum 4GB (8GB recommended for 4K video processing)
-
-Dependency: Python 3.9+ (For running from source)
 
 📥 Installation Guide
 
 For End Users (EXE Version)
 
-Download the latest BothDownloader_Setup.exe from the GitHub Releases page.
+Download the latest BothDownloader_Setup_v1.4.exe from the Releases Section.
 
 Install and run the application.
 
-Go to Settings and enter the License Key to unlock Pro features.
+Go to Settings and enter your License Key to unlock Pro features.
 
-For Developers (Python Source)
-
-# 1. Clone the repository
-git clone [https://github.com/Sanggram/Both-Downloader.git](https://github.com/Sanggram/Both-Downloader.git)
-
-# 2. Navigate to the directory
-cd Both-Downloader
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the application
-python test.py
-
+Note: Since the source code is proprietary, only the compiled executable is available for public use.
 
 🍪 Cookie Usage Guidelines
 
@@ -123,12 +108,16 @@ Return to the Dashboard, select "1080p - HIGH 💎" quality, and start the downl
 
 This software is developed strictly for educational purposes, personal backup, and security testing. Neither Both Security nor the developer assumes responsibility for any unauthorized downloading or distribution of copyrighted content. Please use these cybersecurity tools responsibly.
 
-👨‍💻 Developer
+👨‍💻 Developer & Support
 
 Sanggram Biswas Visionary | Cybersecurity Enthusiast | Founder, Both Security
 
 "I don’t just build apps — I build legacies. Protecting the digital realm, one line of code at a time."
 
+Email: sanggramb82@gmail.com
+
+License Price: $4 USD (Lifetime Access)
+
 <div align="center">
-<b>Project Titan v1.3 © 2025 Both Security. All Rights Reserved.</b>
+<b>Project Titan v1.4 © 2025 Both Security. All Rights Reserved.</b>
 </div>
