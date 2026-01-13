@@ -1,4 +1,4 @@
-🛡️ Both Downloader - Project Titan (v1.4)
+🛡️ Both Downloader - Project Titan (v1.5)
 
 The Ultimate Cyber-Grade Downloading & Security Suite
 
