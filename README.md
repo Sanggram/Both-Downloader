@@ -1,123 +1,95 @@
-🛡️ Both Downloader - Project Titan (v1.5)
+🛡️ TRISHOKTI INTEGRATED CYBER SUITE (Project Titan)
 
-The Ultimate Cyber-Grade Downloading & Security Suite
+Advanced Media Intelligence & Quantum-Grade Encryption Suite
 
-🚀 Introduction
+🚀 Product Overview
 
-Both Downloader (Project Titan) is not just an ordinary video downloader. It is a "Trishokti Integrated Cyber Suite" designed with the core philosophy of combining Human Intelligence and AI.
+Project Titan is not just a downloader; it is a complete Cyber Defense & Media Retrieval System. Built with a futuristic "Cyberpunk" interface using ttkbootstrap, it combines high-speed 8K video acquisition with military-grade file encryption (Argon2id).
 
-It goes beyond simple video downloading by integrating Military-Grade Encryption, AI Video Analysis, and an Advanced Proxy Shield. This suite is specifically engineered for power users, researchers, and cybersecurity enthusiasts.
+Version: 1.8 (Instant Launch Edition)
 
-Philosophy: "Both" - Human & AI Symbiosis. Fighting together as one.
+Architecture: Python 3.x + Tkinter (Modernized)
 
-💎 Why Both Downloader is Superior (Key Benefits)
+🔥 Key Features for Buyers
 
-1. 🍪 Advanced Cookie Injection (Bilibili & Premium Sites)
+1. Media Intelligence (The Downloader)
 
-Standard downloaders often fail to fetch high-quality videos (1080p/4K) from premium sites like Bilibili or Facebook, limiting users to low-quality (360p/480p) streams. Project Titan utilizes advanced "Browser Injection" technology to bypass these restrictions:
+8K/4K Support: Full resolution support for YouTube and other platforms.
 
-Bilibili/Crunchyroll: Access 1080p Premium or 4K streams just like a logged-in user.
+Batch Processing: Import .txt files to download hundreds of videos automatically.
 
-Facebook/Instagram: Download videos from private groups or high-security pages without interruptions.
+Stealth Engine: Randomizes User-Agents to bypass IP blocks.
 
-Mechanism: It extracts authentication tokens directly from your browser (Chrome/Firefox) or a cookies.txt file to validate the request and fetch the original source file.
+Proxy Tunneling: Built-in support for HTTP/SOCKS proxies.
 
-2. 🔒 Both Encryptor (Secure Vault)
+Smart Conversions: Auto-convert video to MP3 or cut specific segments.
 
-To protect your downloaded files or personal data, the suite includes a built-in AES-256 Encryption engine.
+2. Both Encryptor (The Vault)
 
-Lock individual files or entire folders with a secure passphrase.
+Quantum-Resistant: Uses Argon2id Key Derivation + AES-256-GCM.
 
-Stealth Mode: Once encrypted, the original file is securely deleted (recovery is impossible without the key).
+Metadata Preservation: Encrypts filenames and restores them perfectly upon decryption.
 
-Files can only be restored using the correct password.
+Folder Lock: Encrypt entire directories in seconds.
 
-3. 🧠 AI Video Intelligence (Transcribe)
+Self-Destruct Mode: Option to wipe original files after encryption.
 
-No time to watch a video? Use our AI Engine to convert video audio into text (Transcription). It supports 7 languages, including Bengali, English, Hindi, and Spanish.
+3. Cyber Deck (Tools)
 
-🛠️ Feature Arsenal
+IP Scanner: Real-time external IP analysis.
 
-🎥 Core Downloading Features
+Integrity Checker: SHA-256 Hash verifier for file security.
 
-Smart Quality Selector: 720p (Standard), 1080p (High), and 4K (Ultra).
+FFmpeg Integration: Auto-detects or uses embedded FFmpeg for media processing.
 
-Universal Support: Supports over 1000+ sites including YouTube, Facebook, Bilibili, Instagram, and TikTok.
+🛠️ Installation Guide (How to Run)
 
-MP3 Extractor: Built-in tool to extract high-quality audio (MP3) from video files.
+Prerequisites
 
-💎 PRO Features (Titan License Required)
+Install Python 3.10 or higher.
 
-To unlock these premium features, a valid License Key is required:
+Ensure FFmpeg is installed (or place ffmpeg.exe in the root folder).
 
-Batch Processing: Load a .txt file containing multiple links and download hundreds of videos simultaneously.
+Step-by-Step Setup
 
-Clip Extraction: Download specific segments of a video (e.g., from 00:05:00 to 00:06:30) without downloading the entire file.
+Unzip the package.
 
-Folder Encryption: Encrypt entire folders alongside single files for bulk security.
+Open your terminal/command prompt in the folder.
 
-4K/8K Access: Unrestricted access to high-resolution streaming formats.
+Install dependencies:
 
-Stealth Proxy: Download anonymously by tunneling your connection through a proxy, effectively hiding your IP (Geo-bypass).
+pip install -r requirements.txt
 
-🛡️ Cyber Deck Tools
 
-IP Identity Scan: Trace your current public IP and geolocation.
+Run the application:
 
-Integrity Verifier: Verify file authenticity by checking SHA-256 hashes.
+python tools.py
 
-DNS Flush Protocol: One-click tool to refresh and clear network DNS caches.
 
-⚙️ System Requirements
+💎 License Keys (For Testing)
 
-OS: Windows 10/11 (x64)
+The software comes with a built-in licensing system. Use these keys to unlock PRO features during testing:
 
-Engine: FFmpeg (Included in EXE)
+TITAN-PRO-2025
 
-RAM: Minimum 4GB (8GB recommended for 4K video processing)
+BOTH-SEC-MASTER
 
-📥 Installation Guide
+SANGGRAM-AI
 
-For End Users (EXE Version)
+🎨 Rebranding Guide (Make It Yours)
 
-Download the latest BothDownloader_Setup_v1.4.exe from the Releases Section.
+You have full rights to modify the source code.
 
-Install and run the application.
+Change App Name: Open tools.py and search for root.title.
 
-Go to Settings and enter your License Key to unlock Pro features.
+Change Logo: Replace bothdownloader.ico with your own .ico file.
 
-Note: Since the source code is proprietary, only the compiled executable is available for public use.
+Modify Links: Search for OFFICIAL_SITE variable to update your website URL.
 
-🍪 Cookie Usage Guidelines
+Update Licenses: Edit the VALID_LICENSES list to create your own sellable keys.
 
-To download 1080p+ videos from Bilibili or high-security sites:
+⚠️ Legal Disclaimer
 
-Navigate to the "Network / Stealth" tab in the software.
+This software utilizes yt-dlp for media extraction. The developer is not responsible for any misuse of the downloading features. The encryption module uses standard cryptography libraries; always backup critical data before encryption.
 
-Go to the "Advanced Authentication" section.
-
-You will find two options:
-
-Browser Injection: Select the browser (Chrome/Firefox) where you are currently logged in.
-
-Netscape Cookie File: Load a cookies.txt file exported from your browser.
-
-Return to the Dashboard, select "1080p - HIGH 💎" quality, and start the download.
-
-⚠️ Disclaimer
-
-This software is developed strictly for educational purposes, personal backup, and security testing. Neither Both Security nor the developer assumes responsibility for any unauthorized downloading or distribution of copyrighted content. Please use these cybersecurity tools responsibly.
-
-👨‍💻 Developer & Support
-
-Sanggram Biswas Visionary | Cybersecurity Enthusiast | Founder, Both Security
-
-"I don’t just build apps — I build legacies. Protecting the digital realm, one line of code at a time."
-
-Email: sanggramb82@gmail.com
-
-License Price: $4 USD (Lifetime Access)
-
-<div align="center">
-<b>Project Titan v1.4 © 2025 Both Security. All Rights Reserved.</b>
-</div>
+Developed by Both Security | Powered by Trishokti Engine
