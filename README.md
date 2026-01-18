@@ -1,95 +1,89 @@
-🛡️ TRISHOKTI INTEGRATED CYBER SUITE (Project Titan)
+🛡️ Project Titan v1.9 (Both Downloader) - Enterprise Edition
 
-Advanced Media Intelligence & Quantum-Grade Encryption Suite
+"Both" Philosophy: Combining Human Intelligence with AI Efficiency.
+Developed by Sanggram Biswas (Both Security).
 
-🚀 Product Overview
+🔱 Overview
 
-Project Titan is not just a downloader; it is a complete Cyber Defense & Media Retrieval System. Built with a futuristic "Cyberpunk" interface using ttkbootstrap, it combines high-speed 8K video acquisition with military-grade file encryption (Argon2id).
+Project Titan v1.8 is not just a downloader; it is a Trishokti Integrated Cyber Suite. Built with a futuristic "Cyborg" interface, it offers military-grade encryption, stealth browsing capabilities, and high-fidelity media acquisition (up to 8K).
 
-Version: 1.8 (Instant Launch Edition)
+This software is protected by a Dynamic Hardware ID (HWID) Locking System, ensuring that each license key is unique to a specific machine, making it a perfect solution for commercial software distribution.
 
-Architecture: Python 3.x + Tkinter (Modernized)
+🚀 Key Features
 
-🔥 Key Features for Buyers
+1. 📥 Advanced Media Acquisition
 
-1. Media Intelligence (The Downloader)
+Quality Control: Support for 8K, 4K, 2K, 1080p, and 720p.
 
-8K/4K Support: Full resolution support for YouTube and other platforms.
+Smart Audio: Auto-convert video to high-quality MP3.
 
-Batch Processing: Import .txt files to download hundreds of videos automatically.
+Playlist Intelligence: Download full playlists, Top 10, or custom ranges.
 
-Stealth Engine: Randomizes User-Agents to bypass IP blocks.
+Clip Extraction: Download specific time ranges (Start -> End) from online videos.
 
-Proxy Tunneling: Built-in support for HTTP/SOCKS proxies.
+Batch Mode: Process hundreds of links from a text file automatically.
 
-Smart Conversions: Auto-convert video to MP3 or cut specific segments.
+2. 🔐 Quantum-Grade Encryption (Both Encryptor)
 
-2. Both Encryptor (The Vault)
+Algorithm: AES-256-GCM (Galois/Counter Mode).
 
-Quantum-Resistant: Uses Argon2id Key Derivation + AES-256-GCM.
+Key Derivation: Argon2id (Memory-hard password hashing).
 
-Metadata Preservation: Encrypts filenames and restores them perfectly upon decryption.
+Metadata Protection: V5 Protocol protects filenames and structure.
 
-Folder Lock: Encrypt entire directories in seconds.
+Stealth Mode: Option to securely wipe original files after encryption.
 
-Self-Destruct Mode: Option to wipe original files after encryption.
+3. 🕵️ Network & Stealth
 
-3. Cyber Deck (Tools)
+Proxy Tunneling: HTTP/HTTPS/SOCKS proxy support.
 
-IP Scanner: Real-time external IP analysis.
+Browser Injection: Inject cookies from Chrome/Firefox/Edge to bypass login restrictions.
 
-Integrity Checker: SHA-256 Hash verifier for file security.
+Polymorphic Filenames: Randomize filenames to avoid detection or conflicts.
 
-FFmpeg Integration: Auto-detects or uses embedded FFmpeg for media processing.
+4. 🛠️ Cyber Deck & Recon
 
-🛠️ Installation Guide (How to Run)
+IP Identity Scan: Real-time public IP analysis.
+
+File Integrity: SHA-256 Hash Verifier.
+
+Local Media Tools: Video cutter and format converter.
+
+💻 Installation & Setup
 
 Prerequisites
 
-Install Python 3.10 or higher.
+Python 3.10 or higher.
 
-Ensure FFmpeg is installed (or place ffmpeg.exe in the root folder).
+FFmpeg (Included in the package or installed system-wide).
 
-Step-by-Step Setup
+1. Install Dependencies
 
-Unzip the package.
-
-Open your terminal/command prompt in the folder.
-
-Install dependencies:
+Run the following command in your terminal:
 
 pip install -r requirements.txt
 
 
-Run the application:
+2. Run the Application
 
 python tools.py
 
 
-💎 License Keys (For Testing)
+🔑 Licensing System (For Buyers)
 
-The software comes with a built-in licensing system. Use these keys to unlock PRO features during testing:
+This software uses a Hardware-Locked (HWID) licensing system.
 
-TITAN-PRO-2025
+Launch the app and go to SETTINGS / LICENSE.
 
-BOTH-SEC-MASTER
+Copy your Hardware ID.
 
-SANGGRAM-AI
+Send the HWID to the administrator/developer.
 
-🎨 Rebranding Guide (Make It Yours)
+Receive your unique License Key and activate the PRO features.
 
-You have full rights to modify the source code.
+📜 Disclaimer
 
-Change App Name: Open tools.py and search for root.title.
+This tool is designed for educational and personal data management purposes. The developer is not responsible for any misuse of the media downloading or encryption features.
 
-Change Logo: Replace bothdownloader.ico with your own .ico file.
-
-Modify Links: Search for OFFICIAL_SITE variable to update your website URL.
-
-Update Licenses: Edit the VALID_LICENSES list to create your own sellable keys.
-
-⚠️ Legal Disclaimer
-
-This software utilizes yt-dlp for media extraction. The developer is not responsible for any misuse of the downloading features. The encryption module uses standard cryptography libraries; always backup critical data before encryption.
-
-Developed by Both Security | Powered by Trishokti Engine
+Copyright © 2026 Sanggram Biswas. All Rights Reserved.
+Powered by Trishokti Engine.
