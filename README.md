@@ -1,89 +1,92 @@
-🛡️ Project Titan v1.9 (Both Downloader) - Enterprise Edition
+🛡️ Both Downloader - Project Titan
 
-"Both" Philosophy: Combining Human Intelligence with AI Efficiency.
-Developed by Sanggram Biswas (Both Security).
+"Both Security" — Defining the bond between Human & AI, fighting together as one.
 
-🔱 Overview
+Both Downloader (Project Titan) is a next-generation, AI-powered media acquisition and cybersecurity suite. It goes beyond simple downloading, offering military-grade encryption, smart batch processing, and high-speed "Nitro Boost" technology.
 
-Project Titan v1.8 is not just a downloader; it is a Trishokti Integrated Cyber Suite. Built with a futuristic "Cyborg" interface, it offers military-grade encryption, stealth browsing capabilities, and high-fidelity media acquisition (up to 8K).
+⚡ Key Features
 
-This software is protected by a Dynamic Hardware ID (HWID) Locking System, ensuring that each license key is unique to a specific machine, making it a perfect solution for commercial software distribution.
+🚀 High-Performance Engine
 
-🚀 Key Features
+Nitro Boost (aria2c 16x): Multi-threaded download acceleration support.
 
-1. 📥 Advanced Media Acquisition
+Tri-Layer Fail-Safe: Automatically switches protocols (Desktop -> iOS -> MBASIC) to bypass restrictions.
 
-Quality Control: Support for 8K, 4K, 2K, 1080p, and 720p.
+Quality Control: Supports 8K, 4K, 2K, 1080p, and High-Quality MP3 Audio extraction.
 
-Smart Audio: Auto-convert video to high-quality MP3.
+🧠 Intelligent Automation & Ecosystem
 
-Playlist Intelligence: Download full playlists, Top 10, or custom ranges.
+Trishokti Hunter Integration: Works seamlessly with our Trishokti Hunter Chrome Extension for automated deep scanning and link capturing.
 
-Clip Extraction: Download specific time ranges (Start -> End) from online videos.
+Smart Batch Mode: Intelligently parses extension-generated TXT files, ignoring headers/comments and capturing only valid URLs.
 
-Batch Mode: Process hundreds of links from a text file automatically.
+Clip Extraction: Download specific time ranges (e.g., 00:10:00 to 00:12:30) without downloading the full video.
 
-2. 🔐 Quantum-Grade Encryption (Both Encryptor)
+Playlist Intelligence: Smart handling of Single Video vs. Full Playlist vs. Custom Selection.
 
-Algorithm: AES-256-GCM (Galois/Counter Mode).
+🛡️ Security & Privacy (The "Both" Promise)
 
-Key Derivation: Argon2id (Memory-hard password hashing).
+Both Encryptor V5: Built-in file locker using AES-256-GCM and Argon2id hashing.
 
-Metadata Protection: V5 Protocol protects filenames and structure.
+Metadata Masking: Encrypts filenames and metadata to prevent identification.
 
-Stealth Mode: Option to securely wipe original files after encryption.
+Stealth Mode: Randomizes User-Agents and supports Proxy Tunneling for anonymous downloading.
 
-3. 🕵️ Network & Stealth
+HWID Lock: Secure licensing system tied to hardware ID.
 
-Proxy Tunneling: HTTP/HTTPS/SOCKS proxy support.
+🧰 Cyber Deck Tools
 
-Browser Injection: Inject cookies from Chrome/Firefox/Edge to bypass login restrictions.
+IP Identity Scan: Check your public IP visibility.
 
-Polymorphic Filenames: Randomize filenames to avoid detection or conflicts.
+Hash Verifier: Verify file integrity (SHA-256).
 
-4. 🛠️ Cyber Deck & Recon
+Media Converter: Convert Video to Audio instantly.
 
-IP Identity Scan: Real-time public IP analysis.
+Video Cutter: Lossless cutting of local video files.
 
-File Integrity: SHA-256 Hash Verifier.
+📸 Screenshots
 
-Local Media Tools: Video cutter and format converter.
+Command Center
 
-💻 Installation & Setup
-
-Prerequisites
-
-Python 3.10 or higher.
-
-FFmpeg (Included in the package or installed system-wide).
-
-1. Install Dependencies
-
-Run the following command in your terminal:
-
-pip install -r requirements.txt
+Smart Telemetry
 
 
-2. Run the Application
 
-python tools.py
+📥 Installation
 
+Go to the Releases page.
 
-🔑 Licensing System (For Buyers)
+Download the latest Setup Installer (Both_Downloader_Titan.Setup.exe).
 
-This software uses a Hardware-Locked (HWID) licensing system.
+Run the installer. It will automatically set up the core engine (Both Downloader.exe) and dependencies (aria2c, ffmpeg).
 
-Launch the app and go to SETTINGS / LICENSE.
+Launch the app and enjoy!
 
-Copy your Hardware ID.
+🧩 Ecosystem Integration: Trishokti Hunter
 
-Send the HWID to the administrator/developer.
+Both Downloader is designed to work in tandem with the Trishokti Hunter Extension:
 
-Receive your unique License Key and activate the PRO features.
+Scan: Use the extension to Deep Scan any webpage (YouTube, Facebook, etc.).
 
-📜 Disclaimer
+Sort: The extension automatically categorizes links into Shorts, Long Videos, and Others.
 
-This tool is designed for educational and personal data management purposes. The developer is not responsible for any misuse of the media downloading or encryption features.
+Export: Generate a smart TXT Report with a single click.
 
-Copyright © 2026 Sanggram Biswas. All Rights Reserved.
-Powered by Trishokti Engine.
+Download: Load the TXT file into Both Downloader's Batch Mode. The software's Smart Filter will automatically detect valid links and start the Nitro Boost download.
+
+👨‍💻 Developer
+
+Sanggram Biswas
+
+Founder, Both Security Lab
+
+Visionary | Ethical Hacker | AI Developer
+
+"I don't just build apps — I build legacies."
+
+📜 License
+
+Project Titan is proprietary software developed by Both Security Lab.
+Unmodified distribution is permitted. Reverse engineering or cracking is strictly prohibited.
+
+Copyright © 2026 Both Security. All Rights Reserved.
