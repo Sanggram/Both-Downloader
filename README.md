@@ -1,92 +1,107 @@
-🛡️ Both Downloader - Project Titan
+# 🚀 Both Downloader - Project Titan v2.0 (Rapid Fire Edition)
 
-"Both Security" — Defining the bond between Human & AI, fighting together as one.
+<div align="center">
 
-Both Downloader (Project Titan) is a next-generation, AI-powered media acquisition and cybersecurity suite. It goes beyond simple downloading, offering military-grade encryption, smart batch processing, and high-speed "Nitro Boost" technology.
+  ![Version](https://img.shields.io/badge/Version-2.0%20(Titan)-blue?style=for-the-badge&logo=rocket)
+  ![Status](https://img.shields.io/badge/Status-UNLOCKED-success?style=for-the-badge&logo=check)
+  ![Security](https://img.shields.io/badge/Security-AES--256--GCM-red?style=for-the-badge&logo=shield)
+  ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)
+  
+  <h3> "Speed is the new Security." </h3>
+  
+  <p>
+    The ultimate evolution of downloading technology. Re-engineered with the <b>Trishokti Optimization Protocol</b> for lightning-fast performance and military-grade encryption.
+  </p>
 
-⚡ Key Features
+  [📥 Download Both Downloader Titan v2.0](https://github.com/Sanggram/Both-Downloader/releases/download/v2.0/Both_Downloader_Titan_v2.0_Setup.exe)
+  
+  <br>
 
-🚀 High-Performance Engine
+  [🔥 Key Features](#-key-features-whats-new) • [🛠 Support](#-contributing--support)
+</div>
 
-Nitro Boost (aria2c 16x): Multi-threaded download acceleration support.
+---
 
-Tri-Layer Fail-Safe: Automatically switches protocols (Desktop -> iOS -> MBASIC) to bypass restrictions.
+## 🌪️ Overview
 
-Quality Control: Supports 8K, 4K, 2K, 1080p, and High-Quality MP3 Audio extraction.
+**Project Titan v2.0** isn't just an update; it's a complete overhaul. We have dismantled the old core and rebuilt it using the **Trishokti Architecture**, focusing on three pillars: **Speed, Security, and Freedom**.
 
-🧠 Intelligent Automation & Ecosystem
+* **Startup Time:** Reduced from 9s → **1-2s** (Instant Launch).
+* **License:** **100% Free & Unlocked**. No Keys. No HWID Locks.
+* **Engine:** Powered by advanced `yt-dlp` and `FFmpeg` cores for unrestricted access.
 
-Trishokti Hunter Integration: Works seamlessly with our Trishokti Hunter Chrome Extension for automated deep scanning and link capturing.
+---
 
-Smart Batch Mode: Intelligently parses extension-generated TXT files, ignoring headers/comments and capturing only valid URLs.
+## 🔥 Key Features (What's New?)
 
-Clip Extraction: Download specific time ranges (e.g., 00:10:00 to 00:12:30) without downloading the full video.
+### 🔓 1. Total Freedom (Unlocked)
+* **No License Key Required:** The internal licensing system has been permanently bypassed for community use.
+* **No HWID Lock:** Portable and ready to run on any machine.
+* **Premium for All:** Access **8K/4K Downloads**, **Batch Mode**, and **Folder Encryption** without paying a penny.
 
-Playlist Intelligence: Smart handling of Single Video vs. Full Playlist vs. Custom Selection.
+### ⚡ 2. Rapid Fire Startup (Trishokti Optimization)
+* **Lazy Loading Core:** Smart memory management loads heavy libraries (`yt-dlp`, `cryptography`) in the background.
+* **OneDir Architecture:** Built using **Inno Setup** to eliminate temporary file extraction lag.
+* **Zero Latency UI:** The interface is ready for action the moment you click.
 
-🛡️ Security & Privacy (The "Both" Promise)
+### 💎 3. Advanced Downloader Engine
+| Feature | Description |
+| :--- | :--- |
+| **Extreme Quality** | Download Video/Audio in **8K, 4K, 2K, 1080p (60fps)**, and MP3. |
+| **Smart Batch Mode** | Import `.txt` files with thousands of links for automated bulk downloading. |
+| **Playlist Ripper** | Download entire Playlists or Channels with a single click. |
+| **Polymorphic Engine** | **v3.5 Auto-fix** for complex URLs (Facebook Reels, Private Videos). |
+| **Cookie Injection** | Load Netscape cookies (`.txt`) to bypass age restrictions and access premium content. |
 
-Both Encryptor V5: Built-in file locker using AES-256-GCM and Argon2id hashing.
+### 🛡️ 4. Both Encryptor (Quantum Grade)
+* **Algorithm:** **Argon2id + AES-256-GCM** (Currently the strongest standard).
+* **Folder Locking:** Encrypt entire directories in seconds.
+* **Stealth Mode:** Automatically wipes original files (Shredding) after encryption.
+* **Metadata Shield:** Randomizes filenames to completely hide content identity.
 
-Metadata Masking: Encrypts filenames and metadata to prevent identification.
+### 🛠️ 5. Cyber Deck Tools
+* **🕵️ IP Identity Scan:** Instantly detect your public IP address.
+* **✅ Hash Verifier:** Verify file integrity using SHA-256 checksums.
+* **✂️ Media Tools:** Built-in Video Cutter and Format Converter.
 
-Stealth Mode: Randomizes User-Agents and supports Proxy Tunneling for anonymous downloading.
+---
 
-HWID Lock: Secure licensing system tied to hardware ID.
+## 📦 Installation Guide
 
-🧰 Cyber Deck Tools
+1.  **Download:** Click the link below to get the direct setup file.
+    * 👉 **[Both_Downloader_Titan_v2.0_Setup.exe](https://github.com/Sanggram/Both-Downloader/releases/download/v2.0/Both_Downloader_Titan_v2.0_Setup.exe)**
+2.  **Install:** Run the installer (Administrator privileges recommended).
+3.  **Finish:** **FFmpeg** is pre-packaged, so no extra configuration is needed.
+4.  **Launch:** Open the app from your Desktop or Start Menu and feel the speed.
 
-IP Identity Scan: Check your public IP visibility.
+---
 
-Hash Verifier: Verify file integrity (SHA-256).
+## ⚙️ System Requirements
 
-Media Converter: Convert Video to Audio instantly.
+| Component | Minimum Requirement | Recommended (for 8K) |
+| :--- | :--- | :--- |
+| **OS** | Windows 10 (64-bit) | Windows 11 (64-bit) |
+| **RAM** | 4GB | 8GB+ |
+| **Storage** | 200MB Free Space | SSD Storage |
+| **Network** | Broadband | High-speed Fiber |
 
-Video Cutter: Lossless cutting of local video files.
+---
 
-📸 Screenshots
+## 🤝 Contributing & Support
 
-Command Center
+This project is now **Open Source** and free for the community. We believe in knowledge sharing and digital freedom.
 
-Smart Telemetry
+* **Report Bugs:** Create an issue in the [Issues Tab](../../issues).
+* **Contact:** [sanggramb82@gmail.com](mailto:sanggramb82@gmail.com)
+* **Developer:** **Sanggram Biswas** (Both Security Lab)
 
+---
 
+<div align="center">
 
-📥 Installation
-
-Go to the Releases page.
-
-Download the latest Setup Installer (Both_Downloader_Titan.Setup.exe).
-
-Run the installer. It will automatically set up the core engine (Both Downloader.exe) and dependencies (aria2c, ffmpeg).
-
-Launch the app and enjoy!
-
-🧩 Ecosystem Integration: Trishokti Hunter
-
-Both Downloader is designed to work in tandem with the Trishokti Hunter Extension:
-
-Scan: Use the extension to Deep Scan any webpage (YouTube, Facebook, etc.).
-
-Sort: The extension automatically categorizes links into Shorts, Long Videos, and Others.
-
-Export: Generate a smart TXT Report with a single click.
-
-Download: Load the TXT file into Both Downloader's Batch Mode. The software's Smart Filter will automatically detect valid links and start the Nitro Boost download.
-
-👨‍💻 Developer
-
-Sanggram Biswas
-
-Founder, Both Security Lab
-
-Visionary | Ethical Hacker | AI Developer
-
-"I don't just build apps — I build legacies."
-
-📜 License
-
-Project Titan is proprietary software developed by Both Security Lab.
-Unmodified distribution is permitted. Reverse engineering or cracking is strictly prohibited.
-
-Copyright © 2026 Both Security. All Rights Reserved.
+  **Codename: Project Titan** | **License: Freeware (Unlocked)**
+  
+  *"We don't just build apps, we build legacies."*
+  
+  Built with ❤️ in **Bangladesh** 🇧🇩
+</div>
